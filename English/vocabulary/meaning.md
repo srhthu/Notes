@@ -138,3 +138,12 @@ This document group words with similar meaninig.
 - supplant
 - replace
 - substitute
+
+## 混乱相关
+turmoil
+chaos
+disruption
+
+## 报复
+retaliate
+revenge

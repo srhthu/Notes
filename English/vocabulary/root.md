@@ -43,3 +43,8 @@ This document group words of same root, prefix or suffix.
 - restoration n.修复；恢复
 - rectify v.矫正
 - revert v.恢复；归还
+
+## tain
+ - sustain  维持
+ - maintain 保持
+ - retain   保持

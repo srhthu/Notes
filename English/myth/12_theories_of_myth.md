@@ -1,0 +1,32 @@
+words
+- deity 神，上帝
+- divine 神的；神圣的；绝妙的
+- divinity 神性；神学；神
+- legend 传说；传奇人物
+- legendary 传说的，传奇的
+- deed  行为；行动
+- primitive  原始的；落后的
+- demon  恶魔；魔鬼
+- pagan  n. 异教徒 adj. 异教徒的
+- dichotomy  一分为二，二分法
+- transcendent 超凡的；卓越的
+- posit 假定；假设
+- Aryans 雅利安人
+- purported  据称的；传言的
+- purity 纯洁；纯净；纯粹
+- atrocity  暴行
+- legitimize  使合法
+- ideology  思想；意识形态
+- anthropology  人类学
+- codify  编纂
+- vouch  担保；证实；自夸
+- palatable  可口的，味美的；宜人的
+- psyche  心理；精神；灵魂
+- archetype  原型；典型
+- valorization  维持价格？
+- sit atop 坐在……顶上
+- inescapable  不可避免的；逃避不了的
+- sacred  神圣的
+- profane  亵渎的；世俗的
+- archaic  古旧的；古代的；早期的
+- eclectic  兼收并蓄的；不拘一格的

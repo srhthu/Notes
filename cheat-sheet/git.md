@@ -39,3 +39,10 @@ git push <repository> <src>:<dst>
 可以直接运行git push
 """
 ```
+
+## 将本地仓库推到github新创建的仓库中
+```
+git remote add origin git@github.com:srhthu/gittest.git
+git branch -M main
+git push -u origin main
+```

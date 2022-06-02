@@ -46,3 +46,9 @@ git remote add origin git@github.com:srhthu/gittest.git
 git branch -M main
 git push -u origin main
 ```
+
+## Merge
+```
+git merge <branch>
+git merge --abort
+```

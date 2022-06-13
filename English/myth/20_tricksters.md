@@ -1,0 +1,29 @@
+words
+- underdog n. 弱者；处于劣势的人
+- rebel 背叛
+- transgressive 违反道德的
+- pomade 发油；涂发油
+- perpetrator 作恶者
+- butt  屁股
+- promiscuous 淫乱的；杂乱的
+- inventive 创造性的
+- scatological  与粪便有关的
+- dubious 可疑的，怀疑的
+- hunchback  驼背的人
+- dwarf 侏儒
+- jester  小丑
+- kola  可乐果
+- bounty  赏金
+- feature aminals with human characteristics
+- undone  v. 撤销；打开；废止；打败  adj. 未扣；未竟
+- outdo  胜过
+- duplicity  奸诈；表里不一；欺骗行为
+- unenviable  艰难的；不可行的；令人不快的
+  - ~ task
+- thrilled  非常兴奋的
+- dupe  v. 诈骗；哄骗；欺骗  n. 上当受骗者
+- scamp n. 流氓；淘气鬼
+- oppressed  adj. 受压迫的
+- ingenuity  n. 聪明才智；独创力
+- errand  n. 差事；差使
+- 
